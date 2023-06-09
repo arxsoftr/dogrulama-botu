@@ -17,8 +17,7 @@ Bu bot, sunucunuza özel bir gizlilik sağlar. Özel bilgilerinize sadece siz er
 5. Botu çalıştırın.
 
 
-![İngilizce Bayrağı](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg)
-# Verification Bot
+# Verification Bot (🌐)
 
 This bot provides enhanced privacy for your server. Only you can access your private information.
 
